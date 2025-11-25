@@ -1,0 +1,37 @@
+.ak{
+    display: block;
+
+}
+.box{
+    display: inline-block;
+    height: 250px;
+    width: 150px;
+    padding:2px;
+    margin: 10px;
+    text-align:center;
+    border: 5px solid white;
+}
+.box1{
+background-color:yellow;
+}
+.box2{
+background-color:brown;
+}
+.box3{
+background-color:grey;
+}
+.container{
+    border: 2px solid black;
+    width: 600px;
+}
+div{
+    background-color:aqua;
+    height: 300px;
+    width:500px;
+}
+img{
+    margin:10px;
+}
+.p{
+    clear:both;
+}
